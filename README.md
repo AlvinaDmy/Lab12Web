@@ -28,7 +28,7 @@ REST API berisi aturan untuk membuat web service dengan membatasi hak akses clie
 
 4. Menambahkan Data dengan Method Post
 
-- Menambah data dengan judul "Artikel Keempat" dengan mengisi value sesuai keinginan
+- Menambah data dengan judul "Ayam" dengan mengisi value sesuai keinginan
 
 ![img3](img/3.png)
 
